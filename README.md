@@ -1,2 +1,2 @@
 # hello-world
-welcome people
+  technology in art, art in technology
